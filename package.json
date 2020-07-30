@@ -1,7 +1,7 @@
 {
   "name": "cientifico",
   "version": "1.0.0",
-  "description": "Single Page Application",
+  "description": "single page application",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode production",
@@ -10,15 +10,15 @@
   "keywords": [
     "javascript"
   ],
-  "author": "J. Sebastian Duque",
-  "license": "ISC",
+  "author": "J. Sebastian Duque <webmaster@jsebastiandq.com>",
+  "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.10.5",
-    "babel-loader": "^8.1.0",
-    "copy-webpack-plugin": "^6.0.3",
-    "html-webpack-plugin": "^4.3.0",
-    "webpack": "^4.43.0",
-    "webpack-cli": "^3.3.12",
-    "webpack-dev-server": "^3.11.0"
+    "@babel/core": "^7.7.5",
+    "babel-loader": "^8.0.6",
+    "copy-webpack-plugin": "^5.1.1",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.9.0"
   }
 }
